@@ -4,10 +4,3 @@ pandas
 plotly
 requests
 numpy
-os
-json
-datetime
-time
-matplotlib
-seaborn
-scikit-learn
