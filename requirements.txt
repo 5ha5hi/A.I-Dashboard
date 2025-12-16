@@ -4,3 +4,5 @@ pandas
 plotly
 requests
 numpy
+mysql-connector-python
+python-dotenv
